@@ -2,6 +2,7 @@
 
 A screen in an Android app that displays an image at the top. Under the image, there is a headline and 2 pieces of text.
 
+
 This task is part of the Android Basics with Compose course by Google.
 
 Course URL: https://developer.android.com/courses/android-basics-compose/course
